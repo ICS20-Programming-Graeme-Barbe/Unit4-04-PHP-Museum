@@ -1,0 +1,18 @@
+/* Created by: Graeme Barbe
+* Created on: May 06 2022
+* This CSS file defines the style for index.php
+*/
+
+/* body background */
+body {
+	background-image: url('https://www.xmple.com/wallpaper/grey-green-gradient-linear-1920x1080-c2-8fbc8f-2f4f4f-a-270-f-14.svg');
+}
+
+/* Color changes */
+h1 {
+	color: rgb(255, 255, 255);
+}
+
+p{
+	color: rgb(255, 255, 255);
+}
